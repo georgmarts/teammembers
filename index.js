@@ -1,7 +1,7 @@
 
 const { useState, useEffect } = React;
-const femaleProfile = 'femaleProfile.jpg'
-const maleProfile = 'maleProfile.jpg';
+const femaleProfile = 'https://img.freepik.com/premium-vector/portrait-young-beautiful-woman-profile-with-long-flowing-hair_478440-102.jpg?w=2000'
+const maleProfile = 'https://media.istockphoto.com/id/1262277544/vector/head-of-bearded-man-in-profile.jpg?s=612x612&w=0&k=20&c=eHazvzWaOpwkzcI-_-nJwoS72xeaAKEj_F_czcDSMFQ=';
 
 function App () {
 
